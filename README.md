@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eda</h1>
-<h3 align="center">I'm currently focusing on Java Spring Framework and backend development.
-I also have a strong interest in Artificial Intelligence, especially Machine Learning and Deep Learning, and I actively work with Python in these areas.</h3>
+<h3 align="center">I'm currently focusing on Artificial Intelligence, especially Machine Learning and Deep Learning, and I actively work with Python in these areas.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
